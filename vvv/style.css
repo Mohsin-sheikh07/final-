@@ -1,0 +1,46 @@
+.abc{
+    display: inline-block;
+    background-color: pink;
+    border-radius: 30px;
+    padding: 10px;
+    margin-top: 150px;
+    margin-bottom: 20px;
+}
+.ABC{
+    display: inline-block;
+    background-color: red;
+    border-radius: 30px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.ha{
+    margin-top: 5px;
+   font-size: 55px;
+}
+ .hb{
+    margin-top: 20px;
+ }
+ .container-2{
+    margin-top: 20px;
+    background-color: papayawhip;
+    padding-bottom: 50px;
+ }
+ .col{
+    padding-top: 50px;
+ }
+ .mkl{
+    font-size: 150px;
+    margin-top: 15px;
+    color:red;
+ }
+ 
+ .xyz{
+    font-size: 150px;
+    margin-top: 15px;
+    color: red;
+ }
+ .opn{
+    font-size: 150px;
+    margin-top: 15px;
+    color: red;
+ }
